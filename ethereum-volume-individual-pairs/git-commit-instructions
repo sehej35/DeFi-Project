@@ -1,5 +1,0 @@
-git init
-git add *.csv
-git commit -m "Add CSV files"
-git remote add origin https://github.com/grt1999/DeFi.git
-git push -u origin main
